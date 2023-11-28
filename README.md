@@ -19,8 +19,7 @@ This is a monolithic starter project for my personal use.
 yarn
 ```
 
-**Create a `.env` file**
-**Fill up `.env` file from `.env.example` file**
+**Create a `.env` file and Fill up `.env` file from `.env.example` file**
 
 **Start the server**
 
