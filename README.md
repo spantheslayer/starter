@@ -1,6 +1,6 @@
 # Starter 🚀
 
-This is a monolithic starter project for my personal use.
+🀄️ This is a monolithic starter project for my personal use.
 
 ## Tech Stack 🛠
 
